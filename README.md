@@ -6,7 +6,7 @@ Esta é uma solução para o desafio [QR code component challenge on Frontend Me
 
 ### 🔗 Links 
 
-- [Solução no Frontend Mentor](https://www.frontendmentor.io/solutions/social-proof-section-using-grid-and-flex-C-YcWS7Ddc)
+- [Solução no Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-with-flexbox-pmX3TxJz_c)
 
 - [Deployment no Github Pages](https://fransuelton.github.io/qr-code-component/)
 
